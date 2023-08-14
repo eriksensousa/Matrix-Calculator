@@ -1,4 +1,4 @@
-# Matrix Calculator Project in Java
+# Matrix Calculator in Java
 
 Introduction: A matrix calculator is a tool that can perform various calculations on matrices, such as matrix multiplication, transposition, and inversion. In this project, we will explore how to create a matrix calculator using the Java programming language.
 
@@ -15,7 +15,9 @@ Results: By following these steps, you will be able to create a fully functional
 Conclusion: In conclusion, creating a matrix calculator using Java is an interesting and challenging project that can help you improve your programming skills. By using the Apache Commons Math library and following the steps outlined above, you can easily create a working matrix calculator in Java.
 
 
-# Matrix Calculator Project in Python
+# Matrix Calculator in Python
+
+A matrix calculator in Python without the use of any modules. Built to perform various operations on matrices that users input. It can add matrices, multiply a matrix by a scalar, multiply matrices, perform various transpositions on a matrix, calculate a determinant, and find the inverse of a matrix. Although it would practically make more sense to use numpy to work with matrices, it was fun to build a matrix calculator in pure Python.
 
 ![matrix](https://github.com/eriksensousa/Matrix-Calculator-pjkt/assets/126014537/ee35c695-7c3b-4c6e-9667-512ebd184255)
 
