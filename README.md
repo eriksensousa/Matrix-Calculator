@@ -1,5 +1,8 @@
 # Matrix-Calculator-pjkt
 
+![matrix](https://github.com/eriksensousa/Matrix-Calculator-pjkt/assets/126014537/ee35c695-7c3b-4c6e-9667-512ebd184255)
+
+
 Introduction: A matrix calculator is a tool that can perform various calculations on matrices, such as matrix multiplication, transposition, and inversion. In this project, we will explore how to create a matrix calculator using the Python programming language.
 
 Background: Python provides several libraries for performing matrix calculations, including NumPy, which is a powerful library for working with arrays and matrices. NumPy provides a wide range of functions for performing matrix calculations, and it also implements operations between arrays and matrices efficiently.
