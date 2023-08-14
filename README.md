@@ -1,4 +1,4 @@
-# Matrix-Calculator-pjkt
+# Matrix Calculator Project
 
 ![matrix](https://github.com/eriksensousa/Matrix-Calculator-pjkt/assets/126014537/ee35c695-7c3b-4c6e-9667-512ebd184255)
 
@@ -15,7 +15,8 @@ Use the various functions provided by NumPy to perform matrix calculations, such
 Implement a user interface to allow users to input matrices and select the desired calculation.
 Results: By following these steps, you will be able to create a fully functional matrix calculator using Python and the NumPy library. You can use this project to learn more about arrays and matrices, as well as how to perform calculations on them using Python.
 
-A matrix calculator in Python can be created using the NumPy library, which provides a wide range of functions for performing matrix calculations1. NumPy is a powerful library that allows you to create and manipulate arrays and matrices, and it also implements operations between them efficiently2.
+A Matrix Calculator in Python can be created using the NumPy library, which provides a wide range of functions for performing matrix calculations.
+NumPy is a powerful library that allows you to create and manipulate arrays and matrices, and it also implements operations between them efficiently.
 
 To create a matrix calculator in Python using NumPy, you can start by importing the NumPy library and creating arrays to represent your matrices. You can then use the various functions provided by NumPy to perform matrix calculations, such as matrix multiplication, transposition, and inversion1.
 
@@ -32,8 +33,10 @@ C = np.matmul(A, B)
 
 # Print the result
 print(C)
-Copiar
-This code creates two 2x2 matrices A and B, multiplies them using the matmul function from the NumPy library, and prints the result. You can use similar code to perform other matrix calculations using the functions provided by NumPy1.
+
+
+
+This code creates two 2x2 matrices A and B, multiplies them using the matmul function from the NumPy library, and prints the result. You can use similar code to perform other matrix calculations using the functions provided by NumPy.
 
 
 
