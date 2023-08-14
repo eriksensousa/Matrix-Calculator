@@ -29,17 +29,11 @@ To create a matrix calculator in Python using NumPy, you can follow these steps:
 
 <h3> RESULTS </h3>
 
-By following these steps, you will be able to create a fully functional matrix calculator using Python and the NumPy library. You can use this project to learn more about arrays and matrices, as well as how to perform calculations on them using Python.
+By following these steps, you will be able to create a fully functional matrix calculator using Python and the NumPy library. You can use this project to learn more about arrays and matrices, as well as how to perform calculations on them using Python. 
 
-A Matrix Calculator in Python can be created using the NumPy library, which provides a wide range of functions for performing matrix calculations.
+A Matrix Calculator in Python can be created using the NumPy library, which provides a wide range of functions for performing matrix calculations. NumPy is a powerful library that allows you to create and manipulate arrays and matrices, and it also implements operations between them efficiently.
 
-NumPy is a powerful library that allows you to create and manipulate arrays and matrices, and it also implements operations between them efficiently.
-
-To create a matrix calculator in Python using NumPy, you can start by importing the NumPy library and creating arrays to represent your matrices.
-
-You can then use the various functions provided by NumPy to perform matrix calculations, such as matrix multiplication, transposition, and inversion.
-
-For example, here is some sample code that shows how to create two matrices and multiply them using the *matmul* function from the NumPy library:
+To create a matrix calculator in Python using NumPy, you can start by importing the NumPy library and creating arrays to represent your matrices. You can then use the various functions provided by NumPy to perform matrix calculations, such as matrix multiplication, transposition, and inversion. For example, here is some sample code that shows how to create two matrices and multiply them using the *matmul* function from the NumPy library:
 
 >
 > import numpy as np
@@ -61,7 +55,9 @@ For example, here is some sample code that shows how to create two matrices and 
 
 This code creates two 2x2 matrices A and B, multiplies them using the matmul function from the NumPy library, and prints the result. You can use similar code to perform other matrix calculations using the functions provided by NumPy.
 
-Conclusion: In conclusion, creating a matrix calculator using Python is an interesting and challenging project that can help you improve your programming skills. By using the NumPy library and following the steps outlined above, you can easily create a working matrix calculator in Python.
+<h3> CONCLUSION </h3> 
+
+In conclusion, creating a matrix calculator using Python is an interesting and challenging project that can help you improve your programming skills. By using the NumPy library and following the steps outlined above, you can easily create a working matrix calculator in Python.
 
 
 # Matrix Calculator in Java
@@ -74,15 +70,24 @@ A matrix calculator is a tool that can perform various calculations on matrices,
 
 Java provides several libraries for performing matrix calculations, including the Apache Commons Math library, which provides a wide range of mathematical and statistical components. This library includes classes for working with matrices and performing calculations on them.
 
-Methodology: To create a matrix calculator in Java, you can follow these steps:
+<h3> METHODOLOGY </h3> 
 
-Set up a development environment and install the necessary dependencies, such as the Apache Commons Math library.
-Create arrays to represent your matrices using the double[][] data type.
-Use the various classes and methods provided by the Apache Commons Math library to perform matrix calculations, such as RealMatrix for representing matrices and multiply for matrix multiplication.
-Implement a user interface to allow users to input matrices and select the desired calculation.
-Results: By following these steps, you will be able to create a fully functional matrix calculator using Java and the Apache Commons Math library. You can use this project to learn more about arrays and matrices, as well as how to perform calculations on them using Java.
+To create a matrix calculator in Java, you can follow these steps:
 
-Conclusion: In conclusion, creating a matrix calculator using Java is an interesting and challenging project that can help you improve your programming skills. By using the Apache Commons Math library and following the steps outlined above, you can easily create a working matrix calculator in Java.
+1. Set up a development environment and install the necessary dependencies, such as the Apache Commons Math library.
+2. Create arrays to represent your matrices using the double[][] data type.
+3. Use the various classes and methods provided by the Apache Commons Math library to perform matrix calculations, such as RealMatrix for representing matrices and multiply for matrix multiplication.
+4. Implement a user interface to allow users to input matrices and select the desired calculation.
+
+<h3> RESULTS </h3>
+
+By following these steps, you will be able to create a fully functional matrix calculator using Java and the Apache Commons Math library.
+
+You can use this project to learn more about arrays and matrices, as well as how to perform calculations on them using Java.
+
+<h3> CONCLUSION </h3> 
+
+In conclusion, creating a matrix calculator using Java is an interesting and challenging project that can help you improve your programming skills. By using the Apache Commons Math library and following the steps outlined above, you can easily create a working matrix calculator in Java.
 
 
 Author: Eriksen Sousa
